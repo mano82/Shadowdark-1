@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "97d5885ae3a2d5de",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d39372e37b8a3a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4a846e4b9e3f12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Casting Spells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4c8bf5dc278eb4f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8642db1308d56128",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b16acc0b99055cca",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "649d1d0ce320af6d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2778aeb8da6edfd8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "a13c1fef35f3dace",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "19a8595bdeb98664",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Magic/Casting Spells.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "81aceafc92e800f1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Magic/Casting Spells.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "85db1aff20b5858d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Magic/Casting Spells.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8642db1308d56128",
+  "lastOpenFiles": [
+    "Characters/Class/Priest.md",
+    "Spellcasting.md",
+    "Contents.md",
+    "Magic/Casting Spells.md",
+    "Magic/XX Spells.md",
+    "Characters/Class/Fighter.md",
+    "Characters/Class/Wizard.md",
+    "Characters/Class/Thief.md",
+    "Characters/Ancestry/Ancestry.md",
+    "Characters/Class",
+    "Characters/Ancestry/Human.md",
+    "Characters/Ancestry/Halfling.md",
+    "Characters/Ancestry/Dwarf.md",
+    "Characters/Ancestry/Elf.md",
+    "Characters/Ancestry/Goblin.md",
+    "Characters/Ancestry/Half-Orc.md",
+    "Characters/Ancestry",
+    "Characters/Stats.md",
+    "Characters/Starting Level.md",
+    "Characters/Overview.md",
+    "GM Screen.md",
+    "Introduction/The Basics.md",
+    "Introduction/Shadowdark.md",
+    "Characters/Random Characters.md",
+    "Characters/Level Advancement.md",
+    "Characters/Languages.md",
+    "Characters/Character Names.md",
+    "Characters/Gear.md",
+    "Introduction",
+    "Characters",
+    "Magic",
+    "Gameplay",
+    "Game Master",
+    "Monsters/Monster Statblocks",
+    "Monsters",
+    "Treasure/Magic Items/Magic Items"
+  ]
+}

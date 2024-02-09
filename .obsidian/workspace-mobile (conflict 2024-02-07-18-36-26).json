@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "97d5885ae3a2d5de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba70e1ce51bb0baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61e8d03e41654ee9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce34e9502eebbbd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/1) Contents/1) Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4c8bf5dc278eb4f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8642db1308d56128",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b16acc0b99055cca",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "649d1d0ce320af6d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2778aeb8da6edfd8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a13c1fef35f3dace",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "19a8595bdeb98664",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Rules/1) Contents/1) Contents.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "81aceafc92e800f1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Rules/1) Contents/1) Contents.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "85db1aff20b5858d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Rules/1) Contents/1) Contents.md"
+          }
+        }
+      },
+      {
+        "id": "31f4306047fc26a3",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
+        }
+      },
+      {
+        "id": "8defe7d34b36309c",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ce34e9502eebbbd6",
+  "lastOpenFiles": [
+    "Rules/7) Monsters/Monster Statblocks/XX Monsters.md",
+    "Rules/1) Contents/1) Contents.md",
+    "CSS.md",
+    "Quick Reference.md",
+    "Rules/6) Game Master/Rival Crawlers.md",
+    "Rules/Gameplay/Stealth & Surprise.md",
+    "Rules/Gameplay/Adventuring.md",
+    "Rules/Treasure/Treasure/Treasure 0-3.md",
+    "Rules/Treasure/Treasure/Treasure 4-6.md",
+    "Rules/Treasure/Treasure/Treasure Overview.md",
+    "Rules/Treasure/Boons.md",
+    "Rules/Treasure/Mundane Items.md",
+    "Contents.md",
+    "Rules/Gameplay/Downtime.md",
+    "Rules/Gameplay/Time.md",
+    "Rules/Gameplay/Turn Order.md",
+    "Rules/Gameplay/Using Stats.md",
+    "Rules/Gameplay/Wizards & Thieves - Dice Game.md",
+    "Rules/Gameplay/Resting.md",
+    "Rules/Characters/Alignment/Chaotic.md",
+    "Rules/Characters/Alignment/Alignment.md",
+    "Rules/Gameplay/Rolling the Dice.md",
+    "Rules/Monsters/Monster Statblocks/XX Monsters.md",
+    "Rules/Monsters/Monster Statblocks/Angel, Seraph.md",
+    "Rules/Monsters/Monster Statblocks/Angel, Principi.md",
+    "Rules/Monsters/Monster Statblocks/Angel, Domini.md",
+    "Rules",
+    "Rules/Characters/Gear",
+    "X_Attachments"
+  ]
+}

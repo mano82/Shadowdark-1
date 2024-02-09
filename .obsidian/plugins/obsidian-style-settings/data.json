@@ -1,0 +1,13 @@
+{
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-swan-lt",
+  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-minimal-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-blue-lt",
+  "things-style@@h1-color": "#D04255",
+  "things-style@@h2-color": "#D5763F",
+  "things-style@@h3-color": "#E5B567",
+  "things-style@@h5-color": "#6C99BB",
+  "things-style@@h4-color": "#A8C373",
+  "things-style@@fancy-highlight": false,
+  "things-style@@em-color": "#969696",
+  "things-style@@strong-color": "#000000"
+}

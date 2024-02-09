@@ -1,0 +1,1 @@
+Fight with a sword, bash open doors, swim. Important for fighters.

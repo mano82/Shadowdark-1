@@ -1,0 +1,3 @@
+(Unknown Alignment)
+
+Two of The Nine are lost to the ages, their names expunged from history and memory. Yet their whispered legend lives on in ancient texts and forgotten places...

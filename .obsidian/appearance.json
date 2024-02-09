@@ -1,0 +1,9 @@
+{
+  "accentColor": "#aecdf9",
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Malgun Gothic",
+  "enabledCssSnippets": [
+    "Shrink Heading Gap"
+  ],
+  "theme": "moonstone"
+}

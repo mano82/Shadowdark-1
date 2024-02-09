@@ -1,0 +1,2 @@
+- Lawful characters align themselves with fairness, order, and virtue. 
+- Lawful characters operate from a “good of the whole” mentality.

@@ -1,0 +1,2 @@
+- Chaotic characters align themselves with destruction, ambition, and wickedness. 
+- Chaotic characters adopt a “survival of the fittest” mentality.
