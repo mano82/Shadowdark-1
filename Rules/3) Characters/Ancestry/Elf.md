@@ -1,4 +1,8 @@
-*Ethereal, graceful people who revere knowledge and beauty. Elves see far and live long.
+---
+ancestry: elf
+tags: ancestry
+---
+*Ethereal, graceful people who revere knowledge and beauty. Elves see far and live long.*
 
 You know the Common, Elvish, and Sylvan languages.
 

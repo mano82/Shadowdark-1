@@ -1,4 +1,8 @@
-*Bold, adaptable, and diverse people who learn quickly and accomplish mighty deeds.
+---
+ancestry: human
+tags: ancestry
+---
+*Bold, adaptable, and diverse people who learn quickly and accomplish mighty deeds.*
 
 You know the Common language and one additional common language (pg. 32).
 

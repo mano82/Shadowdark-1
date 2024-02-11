@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b44a48f78ac3f16",
+        "id": "c67e869e07772542",
         "type": "tabs",
         "children": [
           {
-            "id": "5c821748d2d931ab",
+            "id": "9d1dfeeccff120e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/7) Monsters/Monster Statblocks/Angel/Domini.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b9b7a7b1b89a4d8a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8c1f85ade27daf38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/7) Monsters/Monster Statblocks/Aboleth.md",
+                "file": "Rules/8) Treasure/Magic Items/Utility/Utility.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/7) Monsters/Monster Statblocks/Angel/Domini.md",
+                "file": "Rules/8) Treasure/Magic Items/Utility/Utility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/7) Monsters/Monster Statblocks/Angel/Domini.md",
+                "file": "Rules/8) Treasure/Magic Items/Utility/Utility.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/7) Monsters/Monster Statblocks/Angel/Domini.md"
+                "file": "Rules/8) Treasure/Magic Items/Utility/Utility.md"
               }
             }
           },
@@ -198,11 +180,31 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "5c821748d2d931ab",
+  "active": "9d1dfeeccff120e5",
   "lastOpenFiles": [
-    "Rules/7) Monsters/Monster Statblocks/Aboleth.md",
-    "Rules/7) Monsters/Monster Statblocks/Angel/Domini.md",
     "Rules/7) Monsters/All Monsters.md",
+    "Rules/8) Treasure/Magic Items/Utility/Utility.md",
+    "Rules/8) Treasure/Magic Items/Utility/Utility Tables.md",
+    "Rules/8) Treasure/Magic Items/Weapons/Weapon Tables.md",
+    "Rules/8) Treasure/Magic Items/Weapons/Weapons.md",
+    "Rules/8) Treasure/Magic Items/Item Personality.md",
+    "Rules/8) Treasure/Magic Items/Armor/Armor.md",
+    "Rules/8) Treasure/Magic Items/Armor/Armor Tables.md",
+    "Rules/8) Treasure/Magic Items/Magic Items Creation/Magic Item Attribute Tables.md",
+    "Rules/8) Treasure/Magic Items/Magic Items Creation/Magic Items Creation.md",
+    "Rules/8) Treasure/Magic Items/Magic Items Creation/Designing Magic Items.md",
+    "Rules/8) Treasure/Magic Items/Magic Items Creation",
+    "Rules/8) Treasure/Magic Items/Utility",
+    "Rules/8) Treasure/Magic Items/Weapons",
+    "Rules/8) Treasure/Magic Items/Scrolls and Wands/Scrolls and Wand Tables.md",
+    "Rules/8) Treasure/Magic Items/Potions/Potion Tables.md",
+    "Rules/8) Treasure/Magic Items/Scrolls and Wands",
+    "Rules/8) Treasure/Magic Items/Potions",
+    "Rules/8) Treasure/Magic Items/Armor.md",
+    "Rules/8) Treasure/Magic Items/Magic Items/Magic Items.md",
+    "Rules/1) Contents/1) Contents.md",
+    "Rules/7) Monsters/Monster Statblocks/Angel/Domini.md",
+    "Rules/7) Monsters/Monster Statblocks/Aboleth.md",
     "Rules/7) Monsters/Monster Statblocks/Angel/Angel.md",
     "Rules/7) Monsters/Monster Statblocks/Ankheg.md",
     "Rules/7) Monsters/Monster Statblocks/Acolyte.md",
@@ -214,17 +216,6 @@
     "The Lost City of Brazenthrone/Detailed Overview Map/Detailed Overview Map.md",
     "X_Attachments/Brazenthrone - Overview.bmp",
     "X_Attachments/Brazenthrone - Detailed Overview.bmp",
-    "Quick Reference.md",
-    "Rules/7) Monsters/Monster Statblocks/Cult Leader.md",
-    "DM/New Rules/4) Magic/Wizard Spells.md",
-    "Rules/7) Monsters/Monster Statblocks/Beastman.md",
-    "Rules/7) Monsters/Monster Statblocks/Bat, Swarm.md",
-    "Rules/7) Monsters/Monster Statblocks/Basilisk.md",
-    "Rules/7) Monsters/Monster Statblocks/Bandit.md",
-    "Rules/7) Monsters/Monster Statblocks/Azmagollellos.md",
-    "Rules/7) Monsters/Monster Statblocks/Locusts Swarm.md",
-    "Rules/7) Monsters/Monster Statblocks/Cultist.md",
-    "Rules/7) Monsters/Monster Statblocks/Bat, Giant.md",
     "Rules/7) Monsters/Monster Statblocks/img/swarm-of-insects.png",
     "Rules/7) Monsters/Monster Statblocks/img/polar-bear.png",
     "Rules/7) Monsters/Monster Statblocks/img/ettercap.png",
@@ -234,18 +225,9 @@
     "Rules/7) Monsters/Monster Statblocks/img/brown-bear.png",
     "Rules/7) Monsters/Monster Statblocks/img/brain-breaker.png",
     "Rules/7) Monsters/Monster Statblocks/img",
-    "X_Templates/armor_template.md",
-    "X_Templates/annotation_tmp.md",
-    "X_Templates/weapon_template.md",
-    "X_Templates/Test Frontmatter.md",
     "DM/New Rules/4) Magic",
     "DM/New Rules",
     "DM",
-    "X_Templates",
-    "The Lost City of Brazenthrone/Detailed Overview Map",
-    "The Lost City of Brazenthrone/Overview Map",
-    "The Lost City of Brazenthrone",
-    "Rules/1) Contents",
     "Untitled.canvas"
   ]
 }

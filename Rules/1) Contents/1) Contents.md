@@ -1,12 +1,12 @@
 
-# Introduction
+## Introduction
 - [[Shadowdark]]
 - [[The Basics]]
-# Characters
+## Characters
 - [[Overview]]
 - [[Starting Level]]
 - [[Stats]]
-- Ancestry
+- [[Ancestry]]
 - [[Fighter]] Class
 - [[Priest]] Class
 - [[Thief]] Class
@@ -23,15 +23,15 @@
 - [[Character Names]]
 - [[Level Advancement]]
 - [[Random Characters]]
-# Magic
+## Magic
 - [[Casting Spells]]
 - [[Wizard Mishaps]]
 - [[Using Scrolls And Wands]]
 - [[Spell Attributes]]
 - [[Priest Spell List]]
 - [[Wizard Spell List]]
-- ​Spells
-# Gameplay
+- ​[[Spells]]
+## Gameplay
 - [[Adventuring]]
 - [[Rolling the Dice]]
 - [[Luck Tokens]]
@@ -47,7 +47,7 @@
 - [[Downtime]]
 - [[Carousing]]
 - [[Wizards & Thieves - Dice Game]]
-# Game Master
+## Game Master
 - [[Your Role]]
 - [[The Players]]
 - [[Core Ethos]]
@@ -73,30 +73,30 @@
 - [[Settlement Maps]]
 - [[Taverns]]
 - [[Shops]]
-## Random Encounter Tables
+### Random Encounter Tables
 - [[Arctic]]
 - [[Artisan District]]
 - [[Castle District]]
-- Cave
-- Deep Tunnels
-- Desert
-- Forest
-- Grassland
-- High District
-- Jungle
-- Low District
-- Market
-- Mountain
-- Ocean
-- River and Coast
-- ​Ruins
-- Slums
-- Swamp
-- Tavern
-- Temple District
-- Tomb
-- University District
-# Monsters
+- [[Cave]]
+- [[Deep Tunnels]]
+- [[Desert]]
+- [[Forest]]
+- [[Grassland]]
+- [[High District]]
+- [[Jungle]]
+- [[Low District]]
+- [[Market]]
+- [[Mountain]]
+- [[Ocean]]
+- [[River & Coast]]
+- ​[[Ruins]]
+- [[Slums]]
+- [[Swamp]]
+- [[Tavern]]
+- [[Temple District]]
+- [[Tomb]]
+- [[University District]]
+## Monsters
 - [[Monster Attributes]]
 - [[Monster Generator]]
 - [[Make it Weird]]
@@ -109,12 +109,12 @@
 - [[Treasure 10+]]
 - [[Mundane Items]]
 - [[Boons]]
-- [[Magic Item Attributes]]
-- [[Armor]]
-- [[Potions]]
-- [[Scrolls and Wands]]
+- [[Magic Item Attribute Tables]]
+- [[Armor Tables]]
+- [[Potion Tables]]
+- [[Scrolls and Wand Tables]]
 - [[Utility]]
-- [[Weapons]]
+- [[Weapon Tables]]
 - [[Item Personality]]
 - [[Designing Magic Items]]
-- Magic Items
+- [[Magic Items]]

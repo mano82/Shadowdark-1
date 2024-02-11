@@ -27,10 +27,10 @@
 ##### Curses/Benefits
 | `dice: 2d6` | **Use Tables For...** |
 |:-----------:| --------------------- |
-|     2-6     | [[Armor]]             |
-|     7-8     | [[Potions]]           |
+|     2-6     | [[Armor Tables]]             |
+|     7-8     | [[Potion Tables]]           |
 |    9-11     | [[Utility]]           |
-|     12      | [[Weapons]]           |
+|     12      | [[Weapon Tables]]           |
 ^Curses-Benefits
 
 ##### Spell Tier

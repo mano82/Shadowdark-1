@@ -1,16 +1,16 @@
 
 Boons are non-monetary sources of value or benefit.
 
-### **Oaths.** 
+### Oaths.
 A favor owed by a unicorn, a title granted by a baron, or the promise of safe harbor by a dryad you helped.
 
-### **Secrets.**
+### Secrets.
 The identity of a murderer, the corrupt bishop's incriminating letters, or the *True Name* of a demon.
 
-### **Blessings.**
+### Blessings.
 An enchantment from a magical fountain or a dryad's gift of the ability to speak to birds. Blessings can be temporary or permanent.
 
-## **XP Value**
+## XP Value
 A boon's XP value is based on its utility. For example, a favor promised by a member of the Thieves' Guild might be normal treasure, but a god's blessing would be legendary treasure.
 
 ##### Oaths

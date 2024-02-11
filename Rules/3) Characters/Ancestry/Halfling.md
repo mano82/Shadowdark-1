@@ -1,4 +1,8 @@
-*Small, cheerful country folk with mischievous streaks. They enjoy life’s simple pleasures.
+---
+ancestry: halfling
+tags: ancestry
+---
+*Small, cheerful country folk with mischievous streaks. They enjoy life’s simple pleasures.*
 
 You know the Common language.
 

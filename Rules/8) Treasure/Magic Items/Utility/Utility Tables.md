@@ -23,7 +23,6 @@
 |     20      | Trails faint mist           |
 ^UtilityFeature
 
-
 ##### Utility Type
 | `dice: d20` | **Type**    |
 |:-----------:| ----------- |

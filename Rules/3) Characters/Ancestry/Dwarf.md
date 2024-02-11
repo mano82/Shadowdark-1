@@ -1,4 +1,9 @@
-*Brave, stalwart folk as sturdy as the stone kingdoms they carve inside mountains.
+---
+ancestry: dwarf
+tags: ancestry
+---
+
+*Brave, stalwart folk as sturdy as the stone kingdoms they carve inside mountains.*
 
 You know the Common and Dwarvish languages.
 
