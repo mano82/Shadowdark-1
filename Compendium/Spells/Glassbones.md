@@ -1,8 +1,8 @@
 ---
-name: Cacklerot
+name: Glassbones
 aliases:
-  - Cacklerot
-tier: 2
+  - Glassbones
+tier: 4
 class:
   - Witch
 duration: Focus
@@ -21,16 +21,16 @@ obsidianEditingMode: source
 
 
 
- # [[Cacklerot]]
+ # [[Glassbones]]
 
 >[!summary]
-> *Tier* 2
+> *Tier* 4
 > Witch
 > *Duration*: Focus
 > *Range*: Close
 > 
 > *Source:* CS1 Diablerie
 
-One target you touch of LV 4 or less collapses helplessly with disturbing, pained laughter for the spell's duration.
+A creature you touch becomes fragile. It takes double damage for the spell's duration.
 
 

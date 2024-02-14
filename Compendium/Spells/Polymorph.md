@@ -5,24 +5,26 @@ aliases:
 tier: 4
 class:
   - Wizard
+  - Witch
 duration: 10 rounds
 range: Close
-source: Core
+source: Core, CS1 Diablerie
 tags:
   - spell
 System: Shadowdark
 obsidianUIMode: preview
 obsidianEditingMode: live
 ---
-# [[Polymorph]]
+
+ # [[Polymorph]]
 
 >[!summary]
 > *Tier* 4
-> Wizard
+> Wizard, Witch
 > *Duration*: 10 rounds
 > *Range*: Close
 > 
-> *Source:* Core
+> *Source:* Core, CS1  Diablerie
 
 You transform a creature you touch into another natural creature you choose of equal or smaller size. Any gear the target carries melds into its new form. 
 

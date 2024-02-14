@@ -74,7 +74,7 @@ Make selections for your character if no table is provided.
 |:-----------:| -------------------- |
 |      1      | [[Alarm]]                |
 |      2      | [[Burning Hands]]        |
-|      3      | [[Charm Person]]         |
+|      3      | [[Charm-Person]]         |
 |      4      | [[Detect Magic]]         |
 |      5      | [[Feather Fall]]         |
 |      6      | [[Floating Disk]]        |

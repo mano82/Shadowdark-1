@@ -8,22 +8,23 @@ class:
   - Witch
 duration: Focus
 range: Self
-source: Core
+source: Core, CS1 Diablerie
 tags:
   - spell
 System: Shadowdark
 obsidianUIMode: preview
 obsidianEditingMode: live
 ---
-# [[Shapechange]]
+
+ # [[Shapechange]]
 
 >[!summary]
 > *Tier* 5
-> Wizard
+> Wizard, Witch
 > *Duration*: Focus
 > *Range*: Self
 > 
-> *Source:* Core
+> *Source:* Core, CS1 Diablerie
 
 You transform yourself and any gear you carry into another natural creature you've seen of level 10 or less. You assume the creature's physical stats and features, but you retain your non-physical stats and features (including INT, WIS, and CHA). 
 

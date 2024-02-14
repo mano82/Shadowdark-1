@@ -1,8 +1,8 @@
 ---
-name: Cacklerot
+name: Fog
 aliases:
-  - Cacklerot
-tier: 2
+  - Fog
+tier: 1
 class:
   - Witch
 duration: Focus
@@ -21,16 +21,16 @@ obsidianEditingMode: source
 
 
 
- # [[Cacklerot]]
+ # [[Fog]]
 
 >[!summary]
-> *Tier* 2
+> *Tier* 1
 > Witch
 > *Duration*: Focus
 > *Range*: Close
 > 
 > *Source:* CS1 Diablerie
 
-One target you touch of LV 4 or less collapses helplessly with disturbing, pained laughter for the spell's duration.
+A thick cloud of fog blooms in a close area around you, making you hard to see. The cloud moves with you. Attacks against creatures in the cloud have disadvantage.
 
 

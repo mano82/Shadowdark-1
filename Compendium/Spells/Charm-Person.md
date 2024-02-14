@@ -8,14 +8,15 @@ class:
   - Witch
 duration: 1d8 days `dice:1d8`
 range: Near
-source: Core
+source: Core, CS1 Diablerie
 tags:
   - spell
 System: Shadowdark
 obsidianUIMode: preview
 obsidianEditingMode: source
 ---
-# [[Charm-Person|Charm Person]]
+
+ # [[Charm-Person|Charm Person]]
 
 >[!summary]
 > *Tier* 1
@@ -23,7 +24,7 @@ obsidianEditingMode: source
 > *Duration*: 1d8 days `dice:1d8`
 > *Range*: Near
 > 
-> *Source:* Core
+> *Source:* Core, CS1 Diablerie
 
 You magically beguile one humanoid of level 2 or less  within near range, who regards  you as a friend for the duration.  
 

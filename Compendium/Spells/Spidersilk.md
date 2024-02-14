@@ -1,7 +1,7 @@
 ---
-name: Cat's Eye
+name: Spidersilk
 aliases:
-  - Cat's Eye
+  - Spidersilk
 tier: 2
 class:
   - Witch
@@ -21,7 +21,7 @@ obsidianEditingMode: source
 
 
 
- # [[Cat's Eye]]
+ # [[Spidersilk]]
 
 >[!summary]
 > *Tier* 2
@@ -31,7 +31,8 @@ obsidianEditingMode: source
 > 
 > *Source:* CS1 Diablerie
 
-Your irises grow to fill your eyes and your pupils turn into black, vertical slits. 
+Sticky spidersilk covers your hands and feet. 
 
-You can see invisible creatures and secret doors for the spell's duration.
+For the spell's duration, you can walk on vertical surfaces as easily as if it were flat ground.
+
 

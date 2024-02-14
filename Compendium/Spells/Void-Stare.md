@@ -1,12 +1,12 @@
 ---
-name: Broomstick
+name: Void Stare
 aliases:
-  - Broomstick
+  - Void Stare
 tier: 3
 class:
   - Witch
 duration: Focus
-range: Self
+range: Far
 source: CS1 Diablerie
 tags:
   - spell
@@ -21,16 +21,18 @@ obsidianEditingMode: source
 
 
 
- # [[Broomstick]]
+ # [[Void Stare]]
 
 >[!summary]
 > *Tier* 3
 > Witch
 > *Duration*: Focus
-> *Range*: Self
+> *Range*: Far
 > 
 > *Source:* CS1 Diablerie
 
+Your eyes turn black as you look into the dark between the stars. 
 
-You conjure a flying broomstick in your hand. The broomstick's rider can fly a near distance each round and can hover in place.
+One creature of LV 6 or less you can see falls under your control. You decide its actions during its turn.
+
 

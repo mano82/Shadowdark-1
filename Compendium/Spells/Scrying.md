@@ -8,7 +8,7 @@ class:
   - Witch
 duration: Focus
 range: Self
-source: Core
+source: Core, CS1 Diablerie
 tags:
   - spell
 System: Shadowdark
@@ -19,11 +19,11 @@ obsidianEditingMode: live
 
 >[!summary]
 > *Tier* 5
-> Wizard
+> Wizard, Witch
 > *Duration*: Focus
 > *Range*: Self
 > 
-> *Source:* Core
+> *Source:* Core, CS1 Diablerie
 
 You look into a crystal ball or reflecting pool, calling up images of a distant place. 
 

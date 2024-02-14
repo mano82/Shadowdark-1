@@ -1,11 +1,11 @@
 ---
-name: Cacklerot
+name: Poison
 aliases:
-  - Cacklerot
+  - Poison
 tier: 2
 class:
   - Witch
-duration: Focus
+duration: 5 rounds
 range: Close
 source: CS1 Diablerie
 tags:
@@ -21,16 +21,16 @@ obsidianEditingMode: source
 
 
 
- # [[Cacklerot]]
+ # [[Poison]]
 
 >[!summary]
 > *Tier* 2
 > Witch
-> *Duration*: Focus
+> *Duration*: 5 rounds
 > *Range*: Close
 > 
 > *Source:* CS1 Diablerie
 
-One target you touch of LV 4 or less collapses helplessly with disturbing, pained laughter for the spell's duration.
+One worn or carried object you touch becomes toxic for the spell's duration. Any creature in contact with the object at the start of its turn takes `dice: 1d6` 1d6 damage.
 
 

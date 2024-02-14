@@ -6,5 +6,7 @@
     "margin": "2",
     "downscalePercent": 100
   },
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden",
+  "showInlineTitle": false
 }

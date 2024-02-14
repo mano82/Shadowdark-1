@@ -8,22 +8,27 @@ class:
   - Witch
 duration: Instant
 range: Self
-source: Core
+source: Core, CS1 Diablerie
 tags:
   - spell
 System: Shadowdark
 obsidianUIMode: preview
 obsidianEditingMode: source
 ---
-# [[Augury|Augury]]
+
+ # [[Augury]]
 
 >[!summary]
 > *Tier* 2
-> Priest
+> Priest, Witch
 > *Duration*: Instant
 > *Range*: Self
 > 
-> *Source:* Core
+> *Source:* Core, CS1 Diablerie
+
+
+
+
 
 You interpret the meaning of supernatural portents and omens. Ask the GM one question about a specific course of action. The GM says whether the action will lead to “weal” or “woe.”
 

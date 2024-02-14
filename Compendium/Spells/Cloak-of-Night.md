@@ -15,13 +15,7 @@ obsidianUIMode: preview
 obsidianEditingMode: source
 ---
 
-
-
-
-
-
-
- # [[Cloak of Night]]
+ # [[Cloak-of-Night|Cloak of Night]]
 
 >[!summary]
 > *Tier* 4
@@ -29,7 +23,7 @@ obsidianEditingMode: source
 > *Duration*: 8 rounds
 > *Range*: Self
 > 
-> *Source:* Core
+> *Source:* CS1 Diablerie
 
 You wrap yourself in a swirling cloak of shadows. For the spell's duration, your armor class becomes 17 (20 on a critical spellcasting check). 
 

@@ -8,22 +8,27 @@ class:
   - Witch
 duration: 10 rounds
 range: Close
-source: Core
+source: Core, CS1 Diablerie
 tags:
   - spell
 System: Shadowdark
 obsidianUIMode: preview
 obsidianEditingMode: live
 ---
-# [[Invisibility]]
+
+ # [[Invisibility]]
 
 >[!summary]
 > *Tier* 2
-> Wizard
+> Wizard, Witch
 > *Duration*: 10 rounds
 > *Range*: Close
 > 
-> *Source:* Core
+> *Source:* Core, CS1 Diablerie
+
+
+
+
 
 A creature you touch becomes invisible for the spell’s duration. 
 

@@ -10,7 +10,7 @@ class:
   - Witch
 duration: Instant
 range: Close
-source: Core
+source: Core, CS1 Diablerie
 tags:
   - spell
 System: Shadowdark
@@ -21,11 +21,11 @@ obsidianEditingMode: live
 
 >[!summary]
 > *Tier* 3
-> Priest
+> Priest, Wizard, Witch
 > *Duration*: Instant
 > *Range*: Close
 > 
-> *Source:* Core
+> *Source:* Core, CS1 Diablerie
 
 
 A dead body you touch answers your questions in a distant, wheezing voice. 

@@ -28,7 +28,7 @@ obsidianEditingMode: source
 > *Duration*: 1 Round
 > *Range*: Close
 > 
-> *Source:* Core
+> *Source:* CS1 Diablerie
 
 You conjure a bubbling cauldron next to you. It can produce one of the following effects:
 - Any broken mundane item placed inside the cauldron is repaired.

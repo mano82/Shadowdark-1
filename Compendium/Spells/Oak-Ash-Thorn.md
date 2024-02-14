@@ -1,8 +1,8 @@
 ---
-name: Cat's Eye
+name: Oak, Ash, Thorn
 aliases:
-  - Cat's Eye
-tier: 2
+  - Oak, Ash, Thorn
+tier: 1
 class:
   - Witch
 duration: Focus
@@ -21,17 +21,16 @@ obsidianEditingMode: source
 
 
 
- # [[Cat's Eye]]
+ # [[Oak, Ash, Thorn]]
 
 >[!summary]
-> *Tier* 2
+> *Tier* 1
 > Witch
 > *Duration*: Focus
 > *Range*: Self
 > 
 > *Source:* CS1 Diablerie
 
-Your irises grow to fill your eyes and your pupils turn into black, vertical slits. 
+For the spell’s duration, faeries, demons, and devils can't attack you. These beings also can’t possess, compel, or beguile you.
 
-You can see invisible creatures and secret doors for the spell's duration.
 
