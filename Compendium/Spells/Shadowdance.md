@@ -6,7 +6,7 @@ tier: 1
 class:
   - Witch
 duration: 3 rounds
-range: n
+range: Near
 source: CS1 Diablerie
 tags:
   - spell
@@ -27,7 +27,7 @@ obsidianEditingMode: source
 > *Tier* 1
 > Witch
 > *Duration*: 3 rounds
-> *Range*: n
+> *Range*: Near
 > 
 > *Source:* CS1 Diablerie
 
