@@ -1,0 +1,10 @@
+## Weapon Type
+`dice: [[Weapon Tables]]^WeaponType]]`
+## Weapon Bonus
+`dice: [[Weapon Tables]]^WeaponBonus]]`
+## Weapon Feature
+`dice: [[Weapon Tables]]^WeaponFeature]]`
+## Weapon Benefit
+`dice: [[Weapon Tables]]^WeaponBenefit]]`
+## Weapon Curse
+`dice: [[Weapon Tables]]^WeaponCurse]]`
