@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c67e869e07772542",
+        "id": "5cee3df4fec3ab94",
         "type": "tabs",
         "children": [
           {
-            "id": "9d1dfeeccff120e5",
+            "id": "84bb696d64bd5547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/8) Treasure/Magic Items/Utility/Utility.md",
+                "file": "Compendium/Patrons/Titania.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/8) Treasure/Magic Items/Utility/Utility.md",
+                "file": "Compendium/Patrons/Titania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/8) Treasure/Magic Items/Utility/Utility.md",
+                "file": "Compendium/Patrons/Titania.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/8) Treasure/Magic Items/Utility/Utility.md"
+                "file": "Compendium/Patrons/Titania.md"
               }
             }
           },
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,57 +178,60 @@
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "9d1dfeeccff120e5",
+  "active": "84bb696d64bd5547",
   "lastOpenFiles": [
-    "Rules/7) Monsters/All Monsters.md",
-    "Rules/8) Treasure/Magic Items/Utility/Utility.md",
-    "Rules/8) Treasure/Magic Items/Utility/Utility Tables.md",
-    "Rules/8) Treasure/Magic Items/Weapons/Weapon Tables.md",
-    "Rules/8) Treasure/Magic Items/Weapons/Weapons.md",
-    "Rules/8) Treasure/Magic Items/Item Personality.md",
-    "Rules/8) Treasure/Magic Items/Armor/Armor.md",
-    "Rules/8) Treasure/Magic Items/Armor/Armor Tables.md",
-    "Rules/8) Treasure/Magic Items/Magic Items Creation/Magic Item Attribute Tables.md",
-    "Rules/8) Treasure/Magic Items/Magic Items Creation/Magic Items Creation.md",
-    "Rules/8) Treasure/Magic Items/Magic Items Creation/Designing Magic Items.md",
-    "Rules/8) Treasure/Magic Items/Magic Items Creation",
-    "Rules/8) Treasure/Magic Items/Utility",
-    "Rules/8) Treasure/Magic Items/Weapons",
-    "Rules/8) Treasure/Magic Items/Scrolls and Wands/Scrolls and Wand Tables.md",
-    "Rules/8) Treasure/Magic Items/Potions/Potion Tables.md",
-    "Rules/8) Treasure/Magic Items/Scrolls and Wands",
-    "Rules/8) Treasure/Magic Items/Potions",
-    "Rules/8) Treasure/Magic Items/Armor.md",
-    "Rules/8) Treasure/Magic Items/Magic Items/Magic Items.md",
-    "Rules/1) Contents/1) Contents.md",
-    "Rules/7) Monsters/Monster Statblocks/Angel/Domini.md",
-    "Rules/7) Monsters/Monster Statblocks/Aboleth.md",
-    "Rules/7) Monsters/Monster Statblocks/Angel/Angel.md",
-    "Rules/7) Monsters/Monster Statblocks/Ankheg.md",
-    "Rules/7) Monsters/Monster Statblocks/Acolyte.md",
-    "Rules/7) Monsters/Monster Statblocks/Animated Armor.md",
-    "Rules/7) Monsters/Monster Statblocks/Peasant.md",
-    "Rules/7) Monsters/Monster Statblocks/Angel",
-    "Rules/7) Monsters/Monster Statblocks/Bear, Polar.md",
-    "Rules/7) Monsters/Monster Statblocks/Bear, Brown.md",
-    "The Lost City of Brazenthrone/Detailed Overview Map/Detailed Overview Map.md",
+    "Compendium/Patrons/The Willowman.md",
+    "Compendium/Patrons/Shune the vile.md",
+    "Compendium/Patrons/Mugdulblub.md",
+    "Compendium/Patrons/Kytheros.md",
+    "Compendium/Patrons/Almazzat.md",
+    "Compendium/Class/Wizard.md",
+    "Compendium/Class/Warlock.md",
+    "Compendium/Patrons/Titania.md",
+    "Compendium/Deities/Shune The Vile.md",
+    "Compendium/Deities/Saint Terragnis.md",
+    "Rules/3 Characters/Patrons.md",
+    "Compendium/Patrons",
+    "Rules/3 Characters/Deities.md",
+    "Compendium/Deities/Gede.md",
+    "Compendium/Class/Knight of St.Ydris.md",
+    "Compendium/Class/Fighter.md",
+    "Compendium/Class/Witch.md",
+    "Compendium/Class/Titles.md",
+    "Rules/4 Magic/Wizard Spells.md",
+    "Witch Spell List.md",
+    "Rules/4 Magic/Witch Spells.md",
+    "Rules/4 Magic/Wizard Mishaps.md",
+    "Rules/4 Magic/Diabolical Mishaps.md",
+    "Wizard Spell List.md",
+    "Compendium/Class/Bard.md",
+    "Rules/3 Characters/Class.md",
+    "Compendium/Spells/Spell Database.md",
+    "DM/Compendium/Spells",
+    "DM/Compendium",
+    "DM",
+    "Test",
+    "Compendium/Monsters/cult-fanatic.png",
+    "Compendium/Armor",
+    "Compendium/Class/Titles",
+    "Compendium/Gear",
+    "Compendium",
+    "Rules/8 Treasure/Magic Items/Magic Items Creation",
     "X_Attachments/Brazenthrone - Overview.bmp",
     "X_Attachments/Brazenthrone - Detailed Overview.bmp",
-    "Rules/7) Monsters/Monster Statblocks/img/swarm-of-insects.png",
-    "Rules/7) Monsters/Monster Statblocks/img/polar-bear.png",
-    "Rules/7) Monsters/Monster Statblocks/img/ettercap.png",
-    "Rules/7) Monsters/Monster Statblocks/img/dryad.png",
-    "Rules/7) Monsters/Monster Statblocks/img/cultist.png",
-    "Rules/7) Monsters/Monster Statblocks/img/commoner.png",
-    "Rules/7) Monsters/Monster Statblocks/img/brown-bear.png",
-    "Rules/7) Monsters/Monster Statblocks/img/brain-breaker.png",
-    "Rules/7) Monsters/Monster Statblocks/img",
-    "DM/New Rules/4) Magic",
-    "DM/New Rules",
-    "DM",
+    "Compendium/Monsters/img/swarm-of-insects.png",
+    "Compendium/Monsters/img/polar-bear.png",
+    "Compendium/Monsters/img/ettercap.png",
+    "Compendium/Monsters/img/dryad.png",
+    "Compendium/Monsters/img/cultist.png",
+    "Compendium/Monsters/img/commoner.png",
+    "Compendium/Monsters/img/brown-bear.png",
     "Untitled.canvas"
   ]
 }

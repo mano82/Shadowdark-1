@@ -1,1 +1,0 @@
-- Neutral characters find balance between Law and Chaos. They align with the cycle of growth and decline, adopting a “nature must take its course” mentality.

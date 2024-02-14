@@ -9,6 +9,6 @@
 > 
 > *Source:* <% tp.frontmatter.source %>
 
-<% tp.file.cursor() %>
+
 
 

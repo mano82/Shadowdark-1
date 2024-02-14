@@ -1,1 +1,0 @@
-- Gems come in numerous varieties and are very valuable.
